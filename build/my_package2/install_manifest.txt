@@ -1,0 +1,17 @@
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/launch/talker.launch.py
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/launch/listener.launch.py
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/ament_index/resource_index/package_run_dependencies/my_package2
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/ament_index/resource_index/parent_prefix_path/my_package2
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/environment/ament_prefix_path.sh
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/environment/ament_prefix_path.dsv
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/environment/path.sh
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/environment/path.dsv
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/local_setup.bash
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/local_setup.sh
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/local_setup.zsh
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/local_setup.dsv
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/package.dsv
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/ament_index/resource_index/packages/my_package2
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/cmake/my_package2Config.cmake
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/cmake/my_package2Config-version.cmake
+/home/steven/dev_ws/src/my_package2/install/my_package2/share/my_package2/package.xml
